@@ -1,5 +1,5 @@
 PODS:
-  - NEStomp (0.0.3):
+  - NEStomp (0.0.1):
     - SocketRocket (~> 0.5.1)
   - SocketRocket (0.5.1)
 
@@ -7,15 +7,14 @@ DEPENDENCIES:
   - NEStomp
 
 SPEC REPOS:
-  https://g.hz.netease.com/WM-iOS/Specs.git:
-    - NEStomp
   https://github.com/cocoapods/specs.git:
+    - NEStomp
     - SocketRocket
 
 SPEC CHECKSUMS:
-  NEStomp: 3938334bb0a89d4d3c38ff6a271b0f5e66e2ee3c
+  NEStomp: 817f842a5f9ddd04715d54b6638c3a7c909c7a7d
   SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
 
-PODFILE CHECKSUM: 68ea12cd3beea696a527f77a7659f3fba8cda278
+PODFILE CHECKSUM: a467e727c6f571316fba06e0eab365d09fc5484a
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.6.0.beta.1

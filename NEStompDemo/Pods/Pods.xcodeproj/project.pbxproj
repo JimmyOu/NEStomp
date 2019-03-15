@@ -7,64 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F228E6D45D1ADA2CE79A6F8813ACA41 /* NEStomp.h in Headers */ = {isa = PBXBuildFile; fileRef = ACD3AE3EA327A6B0A4D1F6968E5D8E84 /* NEStomp.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		4F8841A86E6FE07531B4325698C9BCFF /* Pods-NEStompDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D17CD0F4698C03802798177B1DADFCC3 /* Pods-NEStompDemo-dummy.m */; };
-		5E1C00767A083AEEEED9E532030697D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72F7491339287D7D3438E6159922765F /* Foundation.framework */; };
-		6D96D076CA09D93661C51D0259389D71 /* SocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 60BC638813685B1FE83392871C74E718 /* SocketRocket.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		6EB5E0480CCBEB549E8E4ADDEF279D66 /* SocketRocket-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DCE92F23716A2166BC601E16F3FE27BA /* SocketRocket-dummy.m */; };
-		76E5BDF9E89B493E4908B523C94FB0E9 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39770DC6DBE27972833FB0C495A7D6E9 /* Security.framework */; };
-		B2211B51E7D0157C71FCE7DDEF2C7FA1 /* NEStomp.m in Sources */ = {isa = PBXBuildFile; fileRef = D230C4D869BA88B3FCEDAF3DE6A4EA7C /* NEStomp.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		BB33A5D1239DDBBBAC3EDF127C52C2D3 /* NEStomp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D20DC7EC3ECD75D5360EB5D70CC104 /* NEStomp-dummy.m */; };
-		DB64884782292FD711EE6B64D66DF9AA /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = F6191D79B87F5CCAA213025F93DC1FE7 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E86D77AB88F278C774613113553E854E /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA33308FF5FDB30BB1276B7FC275CBD3 /* CFNetwork.framework */; };
-		FC4EFF0BA7A63D6C32B0E7D8B6F499DC /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = F4EE02B87BF9771023B6ECDD89C026B0 /* SRWebSocket.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		0A5F0A4B7C98B2EAE5C004390D3C3F47 /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = F4EE02B87BF9771023B6ECDD89C026B0 /* SRWebSocket.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		13173FFC809D4EB877AB4AEF3ACA8F48 /* SocketRocket-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DCE92F23716A2166BC601E16F3FE27BA /* SocketRocket-dummy.m */; };
+		185254738B8C6918D566570B18E0A290 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = F6191D79B87F5CCAA213025F93DC1FE7 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1B2C904A95B45FB8D700F054DA96B12B /* NEStomp.h in Headers */ = {isa = PBXBuildFile; fileRef = ACD3AE3EA327A6B0A4D1F6968E5D8E84 /* NEStomp.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		21D326AEE96F56506DF1D63549ADF267 /* SocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 60BC638813685B1FE83392871C74E718 /* SocketRocket.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		422A6F357EC444030683AC0467D509D2 /* Pods-NEStompDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6601E59BDAC407DCF86127C476A8DD61 /* Pods-NEStompDemo-dummy.m */; };
+		868802EB0EB7C97BC883120ACBFBCC3E /* NEStomp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D20DC7EC3ECD75D5360EB5D70CC104 /* NEStomp-dummy.m */; };
+		A9FD989D299E59D6B4F1B83B91AD2E65 /* NEStomp.m in Sources */ = {isa = PBXBuildFile; fileRef = D230C4D869BA88B3FCEDAF3DE6A4EA7C /* NEStomp.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0473DD50B91C7E8935449758CB5B7E2D /* PBXContainerItemProxy */ = {
+		BEB7E52C82EE2793AF38D545BE76F4B1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FA6380B00D9E2D39B84F47D4A08729C6;
+			remoteGlobalIDString = F2934FE21B6271FFDF9B06B705671EAF;
 			remoteInfo = SocketRocket;
 		};
-		34950AC4CA15302472C053CBAE426D52 /* PBXContainerItemProxy */ = {
+		CC386DD453E7ECEEF24ACB952A308C50 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8F99B4F9F1914FCEF33E549FB5B7805E;
+			remoteGlobalIDString = F2934FE21B6271FFDF9B06B705671EAF;
+			remoteInfo = SocketRocket;
+		};
+		FC9ECABDDC01CD74C9146B8B6819D9C9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75B7FE0C27985F52E5715F3D3AD4E145;
 			remoteInfo = NEStomp;
-		};
-		B432F53F8156BABC604E6B273F09AF89 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FA6380B00D9E2D39B84F47D4A08729C6;
-			remoteInfo = SocketRocket;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		046C5CDF5A418547F7111C88F1475F65 /* Pods-NEStompDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NEStompDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		080014143CC3E1806E89CCF88F79423E /* Pods-NEStompDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NEStompDemo-acknowledgements.plist"; sourceTree = "<group>"; };
-		1680D27DACD017962238CEFF44DFC1B0 /* Pods-NEStompDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NEStompDemo.release.xcconfig"; sourceTree = "<group>"; };
 		18D16F32555EE8DBC22165159AB08716 /* libSocketRocket.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSocketRocket.a; path = libSocketRocket.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		1EA34A367BC23C599E2BDD70C43223F9 /* Pods-NEStompDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NEStompDemo-frameworks.sh"; sourceTree = "<group>"; };
-		27681C03ED907D8F715C317B1DF2198B /* Pods-NEStompDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NEStompDemo-resources.sh"; sourceTree = "<group>"; };
+		1E0CC6BA0A2EB0B25C48845C6E3789E4 /* Pods-NEStompDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NEStompDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		23C84F9C425E951E62283DC270B79853 /* Pods-NEStompDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NEStompDemo.release.xcconfig"; sourceTree = "<group>"; };
 		2A3DCDC550E3EA770CD1235A72696EF9 /* SocketRocket.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SocketRocket.xcconfig; sourceTree = "<group>"; };
-		39770DC6DBE27972833FB0C495A7D6E9 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		5697101554A37BBB04F8FBBE4450E18E /* SocketRocket-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SocketRocket-prefix.pch"; sourceTree = "<group>"; };
 		60BC638813685B1FE83392871C74E718 /* SocketRocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SocketRocket.h; path = SocketRocket/SocketRocket.h; sourceTree = "<group>"; };
-		6142E218CDDB4206A2AD5B9F6A5421F0 /* Pods-NEStompDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NEStompDemo.debug.xcconfig"; sourceTree = "<group>"; };
-		72F7491339287D7D3438E6159922765F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6601E59BDAC407DCF86127C476A8DD61 /* Pods-NEStompDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NEStompDemo-dummy.m"; sourceTree = "<group>"; };
 		85D20DC7EC3ECD75D5360EB5D70CC104 /* NEStomp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NEStomp-dummy.m"; sourceTree = "<group>"; };
 		90B4408AB13E9092C40C3BBE00FE1732 /* NEStomp.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NEStomp.xcconfig; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D4966781A0104E8EE9E4C77E6C042A1 /* NEStomp-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NEStomp-prefix.pch"; sourceTree = "<group>"; };
+		9D992AAC509D804E4EC7F40EFDA2D332 /* Pods-NEStompDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NEStompDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		ACD3AE3EA327A6B0A4D1F6968E5D8E84 /* NEStomp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NEStomp.h; path = NEStomp/NEStomp.h; sourceTree = "<group>"; };
-		CA33308FF5FDB30BB1276B7FC275CBD3 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CFNetwork.framework; sourceTree = DEVELOPER_DIR; };
-		D17CD0F4698C03802798177B1DADFCC3 /* Pods-NEStompDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NEStompDemo-dummy.m"; sourceTree = "<group>"; };
 		D230C4D869BA88B3FCEDAF3DE6A4EA7C /* NEStomp.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NEStomp.m; path = NEStomp/NEStomp.m; sourceTree = "<group>"; };
+		D25A6730FC79549DC7AB5BF79E68B641 /* Pods-NEStompDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NEStompDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DB72BD1478D88C23EA357E145C2C1698 /* libPods-NEStompDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-NEStompDemo.a"; path = "libPods-NEStompDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE92F23716A2166BC601E16F3FE27BA /* SocketRocket-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SocketRocket-dummy.m"; sourceTree = "<group>"; };
 		ECDA197906DA8A824040888020FEAA9A /* libNEStomp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libNEStomp.a; path = libNEStomp.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,24 +65,21 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5BE3FDE8C719D9AC709E924BFEDE0BF3 /* Frameworks */ = {
+		5139D914DDAE99F374525ABBF1E58933 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E86D77AB88F278C774613113553E854E /* CFNetwork.framework in Frameworks */,
-				76E5BDF9E89B493E4908B523C94FB0E9 /* Security.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDDE30A8ACD88D0F7FDEAF76FADCC7D4 /* Frameworks */ = {
+		943AA261C410D8D554217691E69559CC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E1C00767A083AEEEED9E532030697D7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F7148ED9496B785C0CDD857E5939582D /* Frameworks */ = {
+		B6B7657617A4E03EA7691B037CBDA9FD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -111,18 +100,17 @@
 			path = "../Target Support Files/NEStomp";
 			sourceTree = "<group>";
 		};
-		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				EC341550D48545A0334F9085B7D07071 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		176FD93D3CAF3F4D566F08BEF157044C /* Targets Support Files */ = {
+		376195E6455E9D515B4435D7A89394C3 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				A6EE91505F9C4945297EC8C4075D59FB /* Pods-NEStompDemo */,
+				9A99EDA7BAB8702115CCE44FB416970A /* Pods-NEStompDemo */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -163,23 +151,21 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
 				69C6645A5F9FA7518D2C8B755D8475DE /* Pods */,
 				C92D7091EA3F393D92C8AB066CA167F4 /* Products */,
-				176FD93D3CAF3F4D566F08BEF157044C /* Targets Support Files */,
+				376195E6455E9D515B4435D7A89394C3 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		A6EE91505F9C4945297EC8C4075D59FB /* Pods-NEStompDemo */ = {
+		9A99EDA7BAB8702115CCE44FB416970A /* Pods-NEStompDemo */ = {
 			isa = PBXGroup;
 			children = (
-				046C5CDF5A418547F7111C88F1475F65 /* Pods-NEStompDemo-acknowledgements.markdown */,
-				080014143CC3E1806E89CCF88F79423E /* Pods-NEStompDemo-acknowledgements.plist */,
-				D17CD0F4698C03802798177B1DADFCC3 /* Pods-NEStompDemo-dummy.m */,
-				1EA34A367BC23C599E2BDD70C43223F9 /* Pods-NEStompDemo-frameworks.sh */,
-				27681C03ED907D8F715C317B1DF2198B /* Pods-NEStompDemo-resources.sh */,
-				6142E218CDDB4206A2AD5B9F6A5421F0 /* Pods-NEStompDemo.debug.xcconfig */,
-				1680D27DACD017962238CEFF44DFC1B0 /* Pods-NEStompDemo.release.xcconfig */,
+				D25A6730FC79549DC7AB5BF79E68B641 /* Pods-NEStompDemo-acknowledgements.markdown */,
+				9D992AAC509D804E4EC7F40EFDA2D332 /* Pods-NEStompDemo-acknowledgements.plist */,
+				6601E59BDAC407DCF86127C476A8DD61 /* Pods-NEStompDemo-dummy.m */,
+				1E0CC6BA0A2EB0B25C48845C6E3789E4 /* Pods-NEStompDemo.debug.xcconfig */,
+				23C84F9C425E951E62283DC270B79853 /* Pods-NEStompDemo.release.xcconfig */,
 			);
 			name = "Pods-NEStompDemo";
 			path = "Target Support Files/Pods-NEStompDemo";
@@ -206,82 +192,80 @@
 			path = "../Target Support Files/SocketRocket";
 			sourceTree = "<group>";
 		};
-		EC341550D48545A0334F9085B7D07071 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				CA33308FF5FDB30BB1276B7FC275CBD3 /* CFNetwork.framework */,
-				72F7491339287D7D3438E6159922765F /* Foundation.framework */,
-				39770DC6DBE27972833FB0C495A7D6E9 /* Security.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		5DC1FBF19287F58D442D7B3A60FC0BC1 /* Headers */ = {
+		176061042D0517A6393AAC6DE2A5A3AE /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6D96D076CA09D93661C51D0259389D71 /* SocketRocket.h in Headers */,
-				DB64884782292FD711EE6B64D66DF9AA /* SRWebSocket.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CE3CC96BF3CC2EAB91C1BDAB8718AEE6 /* Headers */ = {
+		23E07DD67AC5980FDF4902654402EA3E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F228E6D45D1ADA2CE79A6F8813ACA41 /* NEStomp.h in Headers */,
+				1B2C904A95B45FB8D700F054DA96B12B /* NEStomp.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DB446CF166405616423802BD4545D18 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				21D326AEE96F56506DF1D63549ADF267 /* SocketRocket.h in Headers */,
+				185254738B8C6918D566570B18E0A290 /* SRWebSocket.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		7DDE0EFE172D0D5F62A9F517DDF7198E /* Pods-NEStompDemo */ = {
+		75B7FE0C27985F52E5715F3D3AD4E145 /* NEStomp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B21C700544F2AF0BDC4C6A7F5E7CA8F9 /* Build configuration list for PBXNativeTarget "Pods-NEStompDemo" */;
+			buildConfigurationList = 316BCD0A7AF3153316F7C519E9E49892 /* Build configuration list for PBXNativeTarget "NEStomp" */;
 			buildPhases = (
-				6C602867C421D36335AE6FCC988378C4 /* Sources */,
-				F7148ED9496B785C0CDD857E5939582D /* Frameworks */,
+				23E07DD67AC5980FDF4902654402EA3E /* Headers */,
+				38BA8559128897CE54AF47658320FC41 /* Sources */,
+				943AA261C410D8D554217691E69559CC /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				01BE8E7C9CFD6296A34C33C9CDEF58F1 /* PBXTargetDependency */,
-				02C74E4C9AE6A3FD37CD7918CE728E48 /* PBXTargetDependency */,
-			);
-			name = "Pods-NEStompDemo";
-			productName = "Pods-NEStompDemo";
-			productReference = DB72BD1478D88C23EA357E145C2C1698 /* libPods-NEStompDemo.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		8F99B4F9F1914FCEF33E549FB5B7805E /* NEStomp */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4382E17C7D8CA1314ACA51C036435ED8 /* Build configuration list for PBXNativeTarget "NEStomp" */;
-			buildPhases = (
-				F96F4F76A8ACCC80ABD3BD1BE76A7481 /* Sources */,
-				BDDE30A8ACD88D0F7FDEAF76FADCC7D4 /* Frameworks */,
-				CE3CC96BF3CC2EAB91C1BDAB8718AEE6 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				F5177C38B93A65A06EED3F2DDF916009 /* PBXTargetDependency */,
+				F2FC80736CB0F886BB98BDBB0277DB7D /* PBXTargetDependency */,
 			);
 			name = NEStomp;
 			productName = NEStomp;
 			productReference = ECDA197906DA8A824040888020FEAA9A /* libNEStomp.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		FA6380B00D9E2D39B84F47D4A08729C6 /* SocketRocket */ = {
+		DCAD7E0A57B72708154148754D25A5DA /* Pods-NEStompDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0C056AD4861EE1B30942AAC1565A1C82 /* Build configuration list for PBXNativeTarget "SocketRocket" */;
+			buildConfigurationList = 262E5AE1A04DF6713D05ECC4DC80F6F8 /* Build configuration list for PBXNativeTarget "Pods-NEStompDemo" */;
 			buildPhases = (
-				AF003BA0DDB2CD0EA0E4DD34517012C0 /* Sources */,
-				5BE3FDE8C719D9AC709E924BFEDE0BF3 /* Frameworks */,
-				5DC1FBF19287F58D442D7B3A60FC0BC1 /* Headers */,
+				176061042D0517A6393AAC6DE2A5A3AE /* Headers */,
+				50883EF4B8D1F8A8EFB2EF45222D2D8E /* Sources */,
+				B6B7657617A4E03EA7691B037CBDA9FD /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				62BECB55E76627F5CD74D96A4E303729 /* PBXTargetDependency */,
+				62BE97593D895F914E65703664171607 /* PBXTargetDependency */,
+			);
+			name = "Pods-NEStompDemo";
+			productName = "Pods-NEStompDemo";
+			productReference = DB72BD1478D88C23EA357E145C2C1698 /* libPods-NEStompDemo.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		F2934FE21B6271FFDF9B06B705671EAF /* SocketRocket */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43CFB1C3E73646F0C2D48FBED8A97BD5 /* Build configuration list for PBXNativeTarget "SocketRocket" */;
+			buildPhases = (
+				4DB446CF166405616423802BD4545D18 /* Headers */,
+				773AFD94BAF6843F4C338B38927DE1AC /* Sources */,
+				5139D914DDAE99F374525ABBF1E58933 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -313,65 +297,261 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8F99B4F9F1914FCEF33E549FB5B7805E /* NEStomp */,
-				7DDE0EFE172D0D5F62A9F517DDF7198E /* Pods-NEStompDemo */,
-				FA6380B00D9E2D39B84F47D4A08729C6 /* SocketRocket */,
+				75B7FE0C27985F52E5715F3D3AD4E145 /* NEStomp */,
+				DCAD7E0A57B72708154148754D25A5DA /* Pods-NEStompDemo */,
+				F2934FE21B6271FFDF9B06B705671EAF /* SocketRocket */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6C602867C421D36335AE6FCC988378C4 /* Sources */ = {
+		38BA8559128897CE54AF47658320FC41 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F8841A86E6FE07531B4325698C9BCFF /* Pods-NEStompDemo-dummy.m in Sources */,
+				868802EB0EB7C97BC883120ACBFBCC3E /* NEStomp-dummy.m in Sources */,
+				A9FD989D299E59D6B4F1B83B91AD2E65 /* NEStomp.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AF003BA0DDB2CD0EA0E4DD34517012C0 /* Sources */ = {
+		50883EF4B8D1F8A8EFB2EF45222D2D8E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6EB5E0480CCBEB549E8E4ADDEF279D66 /* SocketRocket-dummy.m in Sources */,
-				FC4EFF0BA7A63D6C32B0E7D8B6F499DC /* SRWebSocket.m in Sources */,
+				422A6F357EC444030683AC0467D509D2 /* Pods-NEStompDemo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F96F4F76A8ACCC80ABD3BD1BE76A7481 /* Sources */ = {
+		773AFD94BAF6843F4C338B38927DE1AC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB33A5D1239DDBBBAC3EDF127C52C2D3 /* NEStomp-dummy.m in Sources */,
-				B2211B51E7D0157C71FCE7DDEF2C7FA1 /* NEStomp.m in Sources */,
+				13173FFC809D4EB877AB4AEF3ACA8F48 /* SocketRocket-dummy.m in Sources */,
+				0A5F0A4B7C98B2EAE5C004390D3C3F47 /* SRWebSocket.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		01BE8E7C9CFD6296A34C33C9CDEF58F1 /* PBXTargetDependency */ = {
+		62BE97593D895F914E65703664171607 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SocketRocket;
+			target = F2934FE21B6271FFDF9B06B705671EAF /* SocketRocket */;
+			targetProxy = CC386DD453E7ECEEF24ACB952A308C50 /* PBXContainerItemProxy */;
+		};
+		62BECB55E76627F5CD74D96A4E303729 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = NEStomp;
-			target = 8F99B4F9F1914FCEF33E549FB5B7805E /* NEStomp */;
-			targetProxy = 34950AC4CA15302472C053CBAE426D52 /* PBXContainerItemProxy */;
+			target = 75B7FE0C27985F52E5715F3D3AD4E145 /* NEStomp */;
+			targetProxy = FC9ECABDDC01CD74C9146B8B6819D9C9 /* PBXContainerItemProxy */;
 		};
-		02C74E4C9AE6A3FD37CD7918CE728E48 /* PBXTargetDependency */ = {
+		F2FC80736CB0F886BB98BDBB0277DB7D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SocketRocket;
-			target = FA6380B00D9E2D39B84F47D4A08729C6 /* SocketRocket */;
-			targetProxy = 0473DD50B91C7E8935449758CB5B7E2D /* PBXContainerItemProxy */;
-		};
-		F5177C38B93A65A06EED3F2DDF916009 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SocketRocket;
-			target = FA6380B00D9E2D39B84F47D4A08729C6 /* SocketRocket */;
-			targetProxy = B432F53F8156BABC604E6B273F09AF89 /* PBXContainerItemProxy */;
+			target = F2934FE21B6271FFDF9B06B705671EAF /* SocketRocket */;
+			targetProxy = BEB7E52C82EE2793AF38D545BE76F4B1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
+		14FE1A2B6F40038DE944E045892C884B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A3DCDC550E3EA770CD1235A72696EF9 /* SocketRocket.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = SocketRocket;
+				PRODUCT_NAME = SocketRocket;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2149BF3E4D58B2AE73231B72F8F3C672 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1E0CC6BA0A2EB0B25C48845C6E3789E4 /* Pods-NEStompDemo.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		248378ED5703B003462EC8D4486CB2C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90B4408AB13E9092C40C3BBE00FE1732 /* NEStomp.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/NEStomp/NEStomp-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = NEStomp;
+				PRODUCT_NAME = NEStomp;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		31B7A6D2A574D72C2203CEC009045E76 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A3DCDC550E3EA770CD1235A72696EF9 /* SocketRocket.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = SocketRocket;
+				PRODUCT_NAME = SocketRocket;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4B9FB0AC6C87DF33923CC93FA8AE2D32 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 23C84F9C425E951E62283DC270B79853 /* Pods-NEStompDemo.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4C3A25C4086B5E7AD10D1E29B2583D6C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90B4408AB13E9092C40C3BBE00FE1732 /* NEStomp.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/NEStomp/NEStomp-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = NEStomp;
+				PRODUCT_NAME = NEStomp;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		96434B6C8FF320C976A10DAD7174A4BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		D11C82AF2204B41B80412B8DC9C1D652 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -425,7 +605,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MTL_ENABLE_DEBUG_INFO = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
@@ -434,209 +615,14 @@
 			};
 			name = Debug;
 		};
-		8634F8C27836087EFDBB58731B647388 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6142E218CDDB4206A2AD5B9F6A5421F0 /* Pods-NEStompDemo.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		874DEF1DB1A055A3C7B9B8EF0A571575 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1680D27DACD017962238CEFF44DFC1B0 /* Pods-NEStompDemo.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		998AD557EAE89C469969F8649BE2EAB8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A3DCDC550E3EA770CD1235A72696EF9 /* SocketRocket.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = SocketRocket;
-				PRODUCT_NAME = SocketRocket;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		9BF98150C20E54A93882BFA8B9672117 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90B4408AB13E9092C40C3BBE00FE1732 /* NEStomp.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/NEStomp/NEStomp-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = NEStomp;
-				PRODUCT_NAME = NEStomp;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		A568F4DD6737852A8B30A8ABA8C39682 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90B4408AB13E9092C40C3BBE00FE1732 /* NEStomp.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/NEStomp/NEStomp-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = NEStomp;
-				PRODUCT_NAME = NEStomp;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		B73F1165922F0168D44E9169FE3A54D9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A3DCDC550E3EA770CD1235A72696EF9 /* SocketRocket.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = SocketRocket;
-				PRODUCT_NAME = SocketRocket;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0C056AD4861EE1B30942AAC1565A1C82 /* Build configuration list for PBXNativeTarget "SocketRocket" */ = {
+		262E5AE1A04DF6713D05ECC4DC80F6F8 /* Build configuration list for PBXNativeTarget "Pods-NEStompDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B73F1165922F0168D44E9169FE3A54D9 /* Debug */,
-				998AD557EAE89C469969F8649BE2EAB8 /* Release */,
+				2149BF3E4D58B2AE73231B72F8F3C672 /* Debug */,
+				4B9FB0AC6C87DF33923CC93FA8AE2D32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -644,26 +630,26 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
-				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
+				D11C82AF2204B41B80412B8DC9C1D652 /* Debug */,
+				96434B6C8FF320C976A10DAD7174A4BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4382E17C7D8CA1314ACA51C036435ED8 /* Build configuration list for PBXNativeTarget "NEStomp" */ = {
+		316BCD0A7AF3153316F7C519E9E49892 /* Build configuration list for PBXNativeTarget "NEStomp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9BF98150C20E54A93882BFA8B9672117 /* Debug */,
-				A568F4DD6737852A8B30A8ABA8C39682 /* Release */,
+				4C3A25C4086B5E7AD10D1E29B2583D6C /* Debug */,
+				248378ED5703B003462EC8D4486CB2C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B21C700544F2AF0BDC4C6A7F5E7CA8F9 /* Build configuration list for PBXNativeTarget "Pods-NEStompDemo" */ = {
+		43CFB1C3E73646F0C2D48FBED8A97BD5 /* Build configuration list for PBXNativeTarget "SocketRocket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8634F8C27836087EFDBB58731B647388 /* Debug */,
-				874DEF1DB1A055A3C7B9B8EF0A571575 /* Release */,
+				31B7A6D2A574D72C2203CEC009045E76 /* Debug */,
+				14FE1A2B6F40038DE944E045892C884B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
